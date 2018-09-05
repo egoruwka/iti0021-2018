@@ -1,0 +1,2 @@
+inimene(sokrates).% fakt
+surelik(X) :- inimene(X). % reegel
