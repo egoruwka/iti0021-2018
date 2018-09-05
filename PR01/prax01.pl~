@@ -1,2 +1,3 @@
-inimene(sokrates).% fakt
-surelik(X) :- inimene(X). % reegel
+lind(hani).
+lind(part).
+lendab(X):- lind(X).
